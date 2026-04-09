@@ -82,4 +82,4 @@ This analysis focuses on understanding customer behavior, revenue contribution, 
 ## Technical Details
 
 * **Database:** PostgreSQL
-* **Analysis Tools:** PostgreSQL
+* **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
